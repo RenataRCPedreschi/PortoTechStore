@@ -1,7 +1,7 @@
 # 
 ## 💻 Sobre
-
-Projeto integrador: E-commerce
+E-Commerce: Projeto integrador do Grupo 7
+Projeto sugerido pela Digital House e Porto.
 
 🚧 Em desenvolvimento ✔️ 🚧
 
@@ -25,9 +25,29 @@ A seguinte linguagem de programação foi usada:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="100"/>
 </p>
 <br>
-<br>
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="100" height="100"/>
+</p>
+<br>
+<br>
+<p align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100"/>
+</p>
+<br>
+
+### **Front-end**
+<br>
+<p align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="100" height="100"/>
+</p>
+<br>
+<p align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="100" height="100"/>
+</p>
+<br>
+<br>
+<p align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="100" height="100"/>
 </p>
 <br>
 
