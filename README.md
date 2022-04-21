@@ -1,7 +1,6 @@
 # 
 ## 💻 Sobre
-E-Commerce: Projeto integrador do Grupo 7
-Projeto sugerido pela Digital House e Porto.
+E-Commerce: Projeto integrador do Grupo 7 sugerido pela Digital House e Porto.
 
 🚧 Em desenvolvimento ✔️ 🚧
 
