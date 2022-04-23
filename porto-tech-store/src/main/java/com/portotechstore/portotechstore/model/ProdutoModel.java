@@ -23,7 +23,7 @@ public class ProdutoModel {
 	@GeneratedValue(strategy= GenerationType.IDENTITY) //Gerador automático de Ids (Ex: 1,2,3,4,5...)
 	private long id;
 	
-	//Nome Produto
+	//Nome Produtos
 	@NotNull //Obrigatório
 	@Size(min=3,max=30) // Qtde de caracteres no nome
 	private String nome;
