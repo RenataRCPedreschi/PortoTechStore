@@ -43,4 +43,57 @@ public class ProdutoModel {
 	//Data de Cadastro
 	@Temporal(TemporalType.TIMESTAMP) //Informando que o tipo de dado é um tipo date timestamp
 	private Date date = new java.sql.Date(System.currentTimeMillis());//Captura a data exata que o dado  foi inserido
+<<<<<<< HEAD
+=======
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public double getPreco_venda() {
+		return preco_venda;
+	}
+
+	public void setPreco_venda(double preco_venda) {
+		this.preco_venda = preco_venda;
+	}
+
+	public double getPreco_custo() {
+		return preco_custo;
+	}
+
+	public void setPreco_custo(double preco_custo) {
+		this.preco_custo = preco_custo;
+	}
+
+	public int getQtde_estoque() {
+		return qtde_estoque;
+	}
+
+	public void setQtde_estoque(int qtde_estoque) {
+		this.qtde_estoque = qtde_estoque;
+	}
+
+	public Date getDate() {
+		return date;
+	}
+
+	public void setDate(Date date) {
+		this.date = date;
+	}
+	
+	
+>>>>>>> 6ae8fa3e198ece40821c1c841f2b780f697e3288
 }

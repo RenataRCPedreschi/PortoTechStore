@@ -11,12 +11,20 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.m2e.core.maven2Builder</name>
+=======
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+>>>>>>> 6ae8fa3e198ece40821c1c841f2b780f697e3288
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+=======
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+>>>>>>> 6ae8fa3e198ece40821c1c841f2b780f697e3288
 			<arguments>
 			</arguments>
 		</buildCommand>
